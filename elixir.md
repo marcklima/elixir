@@ -1,4 +1,4 @@
-<img src="http://ninjadolinux.com.br/wp-content/uploads/2020/06/1889312_18ff.jpg" />
+<img src="http://ninjadolinux.com.br/wp-content/uploads/2020/06/1889312_18ff.jpg" alt="Elixir" width=450 height=250 /> 
 # elixir
 Comando elixir
 <hr>
