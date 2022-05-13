@@ -1,6 +1,6 @@
 <img src="http://ninjadolinux.com.br/wp-content/uploads/2020/06/1889312_18ff.jpg" alt="Elixir" width=450 height=250 /> 
-# elixir
-Comando elixir
+<h1>elixir</h1>
+Comandos elixir
 <hr>
 
 * verifique se o Erlang está ativo.
@@ -9,9 +9,9 @@ Erlang (SMP,ASYNC_THREADS,HIPE) (BEAM) emulator version 9.3
 
 * elixir --version
 
-mix - h
+* mix - h
 
-iex
+* iex
 
 
 <hr>
